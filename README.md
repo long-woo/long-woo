@@ -1,6 +1,8 @@
-# <p align="center"> 👏 Hi, I'm LoongWoo </p>
+# <p align="center"> 🤗 Hey, I'm LoongWoo </p>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact" />
+</p>
 
 ## Languages and Tools:
 
