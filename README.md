@@ -1,4 +1,4 @@
-# <p align="center"> 🤗 Hey, I'm LoongWoo </p>
+# <p align="center"> 🤗 Hey, I'm Lonu </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact" />
